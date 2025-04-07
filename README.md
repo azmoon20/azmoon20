@@ -5,8 +5,8 @@
 
 ## 🔹 About Me
 
-- 🎓 Electronics Engineer with a focus on **Power Electronics**
-- 🔌 Experienced in programming microcontrollers (STM32, AVR, ESP32, Arduino)
+- 🎓 Electrical Engineer with a focus on **Power Electronics**
+- 🔌 Experienced in programming microcontrollers (STM32, AVR, Arduino)
 - 🔧 Specialized in **DC-DC converter design for electric vehicles**
 - 💬 Proficient in C and C++ for low-level programming
 - 🌍 Based in Iran
@@ -34,8 +34,8 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: your.email@gmail.com
-- 💬 Telegram: @yourusername
+- ✉️ Email: saeidazmoon@gmail.com
+- 💬 Telegram: @saeedazmoon
 - 🌐 Personal Website (coming soon)
 
 ---
