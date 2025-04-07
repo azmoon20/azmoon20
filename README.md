@@ -1,47 +1,43 @@
-<h1 align="center">سلام! من سعید آزمون هستم 👋</h1>
-<p align="center">💡 مهندس برق | 🔧 برنامه‌نویس میکروکنترلر | 💻 علاقه‌مند به سیستم‌های نهفته</p>
+<h1 align="center">Hi there! I'm Saeed Azmoon 👋</h1>
+<p align="center">⚡ Power Electronics Engineer | 💻 Embedded Systems Developer | 🚗 Passionate about EV Power Conversion</p>
 
 ---
 
-## 🧠 درباره من
-- 🎓 فارغ‌التحصیل مهندسی برق
-- 🔌 تخصص در برنامه‌نویسی میکروکنترلرها (STM32، AVR، ESP32، Arduino)
-- 📡 علاقه‌مند به طراحی سیستم‌های نهفته (Embedded Systems)
-- 💬 مسلط به زبان‌های C و ++C برای برنامه‌نویسی سطح پایین
-- 📍 از ایران
+## 🔹 About Me
+
+- 🎓 Electronics Engineer with a focus on **Power Electronics**
+- 🔌 Experienced in programming microcontrollers (STM32, AVR, ESP32, Arduino)
+- 🔧 Specialized in **DC-DC converter design for electric vehicles**
+- 💬 Proficient in C and C++ for low-level programming
+- 🌍 Based in Iran
 
 ---
 
-## 🔧 مهارت‌ها
-- ✅ برنامه‌نویسی میکروکنترلر (Embedded C)
-- ✅ کار با پروتکل‌های UART, SPI, I2C
-- ✅ طراحی مدار با Proteus و Altium
-- ✅ دیباگ کردن با ST-Link و JTAG
-- ✅ راه‌اندازی سنسورها و ماژول‌ها
+## 🔧 Skills
+
+- ✅ Embedded C / C++ programming
+- ✅ Serial communication protocols (UART, SPI, I2C)
+- ✅ PCB design (Proteus, Altium Designer)
+- ✅ Debugging with ST-Link and JTAG
+- ✅ Sensor and module integration
 
 ---
 
-## 📷 عکس من 😄
-<div align="center">
-  <img src="https://your-image-link.com/photo.jpg" width="200" style="border-radius: 50%" />
-</div>
+## 💡 Interests
 
-*(لینک بالا رو بعداً با لینک عکس واقعی‌ت جایگزین کن)*
+- 🚘 High-efficiency DC-DC converter topologies for EV applications
+- 🌀 Resonant converters and Z-Source techniques
+- 🔋 Compact, high-power-density converter design
+- 📈 Real-time system control with microcontrollers
 
 ---
 
-## 📫 راه ارتباطی
-- ✉️ ایمیل: your.email@gmail.com
+## 📫 Contact Me
+
+- ✉️ Email: your.email@gmail.com
 - 💬 Telegram: @yourusername
-- 🌐 وب‌سایت (در آینده 😎)
+- 🌐 Personal Website (coming soon)
 
 ---
 
-## ✨ در حال یادگیری
-- RTOS (FreeRTOS)
-- طراحی بردهای سفارشی
-- برنامه‌نویسی سطح پایین حرفه‌ای
-
----
-
-<p align="center">از بازدیدت از پروفایلم ممنونم 🙏 امیدوارم پروژه‌های خوبی رو با هم بسازیم! 💥</p>
+<p align="center">Thanks for visiting my profile! Looking forward to connecting and building awesome projects together 🚀</p>
